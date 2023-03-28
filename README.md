@@ -1,5 +1,5 @@
 # Exercicios-Python
 
-## Repositorio para exercicios e aplicaç em python
+## Repositorio para exercicios e aplicações em python
 
 
